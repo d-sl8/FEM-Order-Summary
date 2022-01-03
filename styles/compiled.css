@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("images/pattern-background-desktop.svg");
   background-repeat: repeat-x;
   background-color: #e0e8ff;
   font-family: "Red Hat Display", sans-serif;
